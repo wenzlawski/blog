@@ -6,6 +6,8 @@ website:
   title: "Marc Wenzlawski - Blog"
   navbar:
     right:
+      - text: Home
+        href: https://wenzlawski.github.io
       - about.qmd
       - icon: github
         href: https://github.com/wenzlawski
@@ -13,8 +15,11 @@ website:
         href: https://twitter.com
 format:
   html:
-    theme: simplex
-    css: styles.css
+    theme: 
+      light: simplex
+      dark: cyborg
+    css: styles.scss
+    toc: true
 
 
 

@@ -1,12 +1,18 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "Marc Wenzlawski"
 date: "2023-05-17"
 categories: [news]
+format:
+  html:
+    toc: false
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This is the first post in my Quarto blog. Welcome!
 
-![](thumbnail.jpg)
+Quick rationale for using **Quarto** as a solution for blogging.
+Since there are so many high quality solutions to writing a web blog, I think it good to give a quick explanation of why Quarto is so amazing for scientificy and technical blogging!
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+First of all, the ease of use of Quarto is simply unbeatable.
+Designed with scientific writing in mind, it seamlessly integrates with and renders everything from markdown files (including inline code), Jupyter Notebooks, etc to beautiful HTML pages.
+

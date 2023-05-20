@@ -1,0 +1,25 @@
+---
+title: "Test render"
+author: "Marc Wenzlawski"
+date: "2023-05-17"
+draft: true
+notebook-view:
+  - notebook: index.ipynb
+    title: "Plots and Computations"
+---
+
+# Initial heading
+
+This is the first post in a Quarto blog. Welcome!
+
+## Subheading
+
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+
+Now we can look at the embedded notebooks figures like this:
+
+{{< embed index.ipynb#fig-sin >}}
+
+
+Back to main at [Main](index.ipynb)

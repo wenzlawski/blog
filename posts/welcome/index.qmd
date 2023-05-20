@@ -1,14 +1,14 @@
 ---
-title: "Welcome To My Blog"
-author: "Marc Wenzlawski"
-date: "2023-05-17"
+title: Welcome To My Blog
+subtitle: This is the first post in my Quarto blog. Welcome!
+author: Marc Wenzlawski
+date: 2023-05-17
 categories: [news]
 format:
   html:
     toc: false
 ---
 
-This is the first post in my Quarto blog. Welcome!
 
 Quick rationale for using **Quarto** as a solution for blogging.
 Since there are so many high quality solutions to writing a web blog, I think it good to give a quick explanation of why Quarto is so amazing for scientificy and technical blogging!

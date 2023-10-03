@@ -10,6 +10,14 @@ categories: [news]
 
 # Blog Ideas
 
+## Open Source
+
+- Free and Open Source Life: My philosophy to living with free and open source software.
+- Calibre-web: setting up an openly accessible ebook server for friends and family
+- 
+
+## Other
+
 - Explaining Word Embeddings: SVD, word2vec, CBow, skipGram, GloVe.
 - Pluto tutorials which are based on python tutorials. Basically, python tutorials for anything (such as [Kaparthy's micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0)).
 - Modeling Tasks.

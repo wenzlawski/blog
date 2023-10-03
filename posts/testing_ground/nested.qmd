@@ -1,8 +1,7 @@
 ---
-title: "Test render"
-author: "Marc Wenzlawski"
-date: "2023-05-17"
-draft: true
+title: Test render
+author: Marc Wenzlawski
+date: 2023-05-17
 notebook-view:
   - notebook: index.ipynb
     title: "Plots and Computations"
@@ -23,3 +22,7 @@ Now we can look at the embedded notebooks figures like this:
 
 
 Back to main at [Main](index.ipynb)
+
+$$
+P(A|B) = \frac{P(A) * P(A \land B)}{P(B)}
+$$

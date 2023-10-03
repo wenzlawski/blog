@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/calibre.html",
+    "href": "posts/calibre.html",
+    "title": "Calibre-Web",
+    "section": "",
+    "text": "https://github.com/janeczku/calibre-web https://engineerworkshop.com/blog/connecting-your-raspberry-pi-web-server-to-the-internet/ https://serverfault.com/questions/753105/how-to-reverse-proxy-to-different-places-depending-on-subdomain-in-nginx http://blog.xixiao.info/2019/01/01/dynamic-dns-setup-by-ddclient/ https://support.google.com/domains/answer/6147083?hl=en#:~:text=Dynamic%20DNS%20allows%20you%20to,name%20servers%20of%20Google%20Domains."
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -14,31 +21,17 @@
     "text": "Quick rationale for using Quarto as a solution for blogging. Since there are so many high quality solutions to writing a web blog, I think it good to give a quick explanation of why Quarto is so amazing for scientificy and technical blogging!\nFirst of all, the ease of use of Quarto is simply unbeatable. Designed with scientific writing in mind, it seamlessly integrates with and renders everything from markdown files (including inline code), Jupyter Notebooks, etc to beautiful HTML pages."
   },
   {
+    "objectID": "posts/ideas/foss.html",
+    "href": "posts/ideas/foss.html",
+    "title": "Free and Open Source Life",
+    "section": "",
+    "text": "Living free and open source.\n\non the philosophy of open source software: where does it come from, why does it work, and what is needed for it to flourish?\nalternatives to popular closed source and paid programs\n\nmost influential: news reader, tools, cloud storage\n\non the difficulties of adoption of OSS: ease of use, accessability, awareness\nhttps://github.com/awesome-selfhosted/awesome-selfhosted"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Blog",
     "section": "",
-    "text": "Blog Ideas\n\n\nSome ideas for blog posts.\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 20, 2023\n\n\nMarc Wenzlawski\n\n\n\n\n\n\n  \n\n\n\n\nEmbedding Jupyter Notebook Cells\n\n\nA quick overview of embedding Jupyter Notebook cells in a blog post\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 17, 2023\n\n\nMarc Wenzlawski\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\nThis is the first post in my Quarto blog. Welcome!\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 17, 2023\n\n\nMarc Wenzlawski\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
-    "objectID": "posts/test/index.html",
-    "href": "posts/test/index.html",
-    "title": "Embedding Jupyter Notebook Cells",
-    "section": "",
-    "text": "Analyzing XYZ\nSee more at Nested\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\n\nx = np.linspace(0, 2 * np.pi, 100)\ny = np.sin(x)\n\nplt.plot(x, y)\n\n\n\n\nFigure 1: A line plot of the sine function."
-  },
-  {
-    "objectID": "posts/ideas/index.html",
-    "href": "posts/ideas/index.html",
-    "title": "Blog Ideas",
-    "section": "",
-    "text": "Blog Ideas\n\nExplaining Word Embeddings: SVD, word2vec, CBow, skipGram, GloVe.\nPluto tutorials which are based on python tutorials. Basically, python tutorials for anything (such as Kaparthy’s micrograd).\nModeling Tasks.\n\nClimate Impact Modeling.\nModeling biological systems.\nModeling an agent-based economic system.\nComputational Chemistry: modeling reactions.\n\nAnalysing the performance of modeling vs AI in prediction.\nValuing financial derivatives.\nEdge detection and mapping in autonomous driving.\nMotion analysis.\nPlaying with geographical sattelite data.\nSurveying the state of policy and ethics in AI.\nMIT 18.01 - Single Variate Calculus here.\nMIT 18.02 - Multi Variate Calculus here.\nMIT 18.03 - Differential Equations here.\nLearning how to learn languages: The Thinking Method and other tactics.\nMetalearning: learning about learning .\nHPC and its applications.\nMyths debunked by data.\nLearning from economic crashes.\nPersonal Finance.\nIntegrate everything: finding new ways of automating.\nIs democracy really that bad? Building on philosophy and data..\nExploring Crypto Economics.\nEthics of social media use.\nThe dangers and possibilities of robotics.\nGetting good at kaggle-ing.\nThe state and future of renewable energy in developing countries.\nSpace: what’s out there.\nComputational Astrophysics, Exploring Space data.\nChina’s place in the world and its future.\nWhat makes a great speech? The art of public speaking and persuasion.\nLiving a healthy life: what the science says.\nExploring the ethics and state of genetic engineering.\nLearning how to write: theory and practice.\nHow to get good at everything, learning faster.\nMnemonics and the art of remembering.\nDear diary… harnessing the power of journalling in personal development.\nA model for personal development.\nCognitive biases: What you think you know.\nPhilosophy from first principles.\nOn my thoughts on the British monarchy."
+    "text": "Date\n\n\nTitle\n\n\nReading Time\n\n\n\n\n\n\nMay 17, 2023\n\n\nWelcome To My Blog\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   }
 ]

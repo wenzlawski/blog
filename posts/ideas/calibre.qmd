@@ -1,0 +1,12 @@
+---
+title: Calibre-Web
+subtitle: Setting up a self-hosted ebook server for friends and family.
+author: Marc Wenzlawski
+date: 2023-05-21
+---
+
+https://github.com/janeczku/calibre-web
+https://engineerworkshop.com/blog/connecting-your-raspberry-pi-web-server-to-the-internet/
+https://serverfault.com/questions/753105/how-to-reverse-proxy-to-different-places-depending-on-subdomain-in-nginx
+http://blog.xixiao.info/2019/01/01/dynamic-dns-setup-by-ddclient/
+https://support.google.com/domains/answer/6147083?hl=en#:~:text=Dynamic%20DNS%20allows%20you%20to,name%20servers%20of%20Google%20Domains.
